@@ -59,6 +59,8 @@ C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
@@ -70,6 +72,8 @@ C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
 C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
@@ -82,11 +86,5 @@ C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
 C:\SF.Code\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 C:\SF.Code\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\SF.Code\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
-C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
-C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
-C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
-C:\SF.Code\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
-C:\SF.Code\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\SF.Code\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
 C:\SF.Code\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
-C:\SF.Code\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
-C:\SF.Code\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
